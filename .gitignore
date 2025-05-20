@@ -1,2 +1,5 @@
 venv/
 Figure_1.png
+_pycaches/
+__pycache__/
+output/
